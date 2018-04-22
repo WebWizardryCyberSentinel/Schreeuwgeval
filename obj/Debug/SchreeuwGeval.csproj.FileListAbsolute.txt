@@ -1,0 +1,9 @@
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\bin\Debug\TalkerTester.exe.config
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\bin\Debug\TalkerTester.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\bin\Debug\TalkerTester.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\obj\Debug\TalkerTester.Form1.resources
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\obj\Debug\TalkerTester.Properties.Resources.resources
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\obj\Debug\SchreeuwGeval.csproj.GenerateResource.Cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\obj\Debug\SchreeuwGeval.csproj.CoreCompileInputs.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\obj\Debug\TalkerTester.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\Head First C#\TalkerTester\TalkerTester\TalkerTester\obj\Debug\TalkerTester.pdb
